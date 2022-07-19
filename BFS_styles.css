@@ -1,0 +1,157 @@
+body
+{
+  background-color: #000000;
+  text-align: center;
+}
+
+
+
+.fixed_div1
+{
+
+  background-color: rgb(10, 196, 255);
+  width: 200px;
+  display: inline-block;
+
+  margin: 0 auto;
+  border-radius: 14px;
+  padding: 30px 30px 80px 30px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.fixed_div2
+{
+  display: inline-block;
+  background-color: rgb(10, 196, 255);
+  width: 200px;
+
+  margin: 0 auto;
+  border-radius: 14px;
+  padding: 30px 30px 80px 30px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#moved
+{
+  font-family: fantasy;
+  font-weight: bolder;
+  font-style: italic;
+  margin: 10px;
+  font-size: 2.3rem;
+  color: #A4B494;
+}
+
+#moved_counter
+{
+  font-family: fantasy;
+  font-weight: bolder;
+  font-style: italic;
+  margin: 10px;
+  font-size: 2.3rem;
+  color: #A4B494;
+}
+
+.points_table
+{
+  font-family: fantasy;
+  font-weight: bolder;
+  font-style: italic;
+  margin: 10px;
+
+  font-size: 3.3rem;
+  color: #A4B494;
+}
+
+
+
+#start
+{
+  font-family: fantasy;
+  font-weight: bolder;
+  font-style: italic;
+  margin: 10px;
+  font-size: 1.3rem;
+}
+
+#block
+{
+  font-family: fantasy;
+  font-weight: bolder;
+  font-style: italic;
+  margin: 10px;
+  font-size: 1.3rem;
+}
+
+
+.bloc
+{
+  background-color: #ffffff;
+  margin: 10;
+  border-radius: 5px;
+  padding: 0;
+  width: 55px;
+  height: 55px;
+  display: inline-block;
+
+}
+
+.yem
+{
+  background-color: yellow;
+  margin: 10;
+  padding: 10;
+  display: inline-block;
+}
+
+.blum
+{
+  background-color: blue;
+  margin: 10;
+  padding: 10;
+  display: inline-block;
+}
+
+.rem
+{
+  background-color: red;
+  margin: 10;
+  padding: 10;
+  display: inline-block;
+}
+
+.bbl
+{
+  background-color: black;
+  margin: 10;
+  padding: 10;
+  display: inline-block;
+}
+
+#main_central_div
+{
+  background-color: rgb(10, 196, 255);
+  width: 500px;
+
+  margin: 0 auto;
+  border-radius: 14px;
+  padding: 30px 30px 80px 30px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.internal
+{
+  background-color: rgb(10, 126, 255);
+  width: 300px;
+  margin: 0 auto;
+  border-radius: 14px;
+  padding: 30px 30px 20px 30px;
+  margin-top: 50px;
+}
+
+.internal p
+{
+  font-size: 2.0em;
+}
